@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_711_6" width="18.002" height="18.998" data-name="Component 711 – 6" viewBox="0 0 18.002 18.998">
+    <defs>
+        <style>
+            .cls-1{fill:#09aded}.cls-2{fill:#0b3254}
+        </style>
+    </defs>
+    <path id="Union_48" d="M16872 7324a8 8 0 1 1 0-16h10v14a2 2 0 0 1-2 2zm7-16v-3h1a2 2 0 0 1 2 2v1z" class="cls-1" data-name="Union 48" transform="translate(-16863.998 -7305.001)"/>
+    <path id="Rectangle_7949" d="M.75 0H1v1.5H.75A.75.75 0 0 1 0 .75.75.75 0 0 1 .75 0z" class="cls-2" data-name="Rectangle 7949" transform="rotate(180 8.001 1.5)"/>
+</svg>

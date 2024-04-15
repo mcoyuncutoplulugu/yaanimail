@@ -1,0 +1,240 @@
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQbjB_mQ.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtM1rSlcZZJmOpwVS.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtM1rSlcZZJmOpwVS.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMdrSlcZZJmOpwVS.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMdrSlcZZJmOpwVS.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSlcZZJmOpw.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSlcZZJmOpw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMprSlcZZJmOpwVS.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMprSlcZZJmOpwVS.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMRrSlcZZJmOpwVS.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMRrSlcZZJmOpwVS.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMVrSlcZZJmOpwVS.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMVrSlcZZJmOpwVS.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMZrSlcZZJmOpwVS.woff
+File Name: C:\Downloaded Web Sites\yaanimail.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMZrSlcZZJmOpwVS.woff
+Content Type: font/woff
+
+Uri: https://kit.fontawesome.com/714939684d.js
+File Name: C:\Downloaded Web Sites\yaanimail.com\714939684d.js
+Content Type: text/javascript
+
+Uri: https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js
+File Name: C:\Downloaded Web Sites\yaanimail.com\eKoopmans\html2pdf\master\dist\html2pdf.bundle.js
+Content Type: application/javascript
+
+Uri: https://yaanimail.com/
+File Name: C:\Downloaded Web Sites\yaanimail.com\index.htm
+Content Type: text/html
+
+Uri: https://yaanimail.com/assets/img/common/toastr-icon-error.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\common\toastr-icon-error.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/common/toastr-icon-success.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\common\toastr-icon-success.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/homepage/content/banner-mobile-xs.jpg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\homepage\content\banner-mobile-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://yaanimail.com/assets/img/homepage/content/banner.jpg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\homepage\content\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://yaanimail.com/assets/img/icon/icon-add.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-add.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-conversation-inactive.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-conversation-inactive.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-conversation.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-conversation.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-left-black.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-left-black.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-nodata-slot.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-nodata-slot.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-right-black.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-right-black.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-scheduling-tentative.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-scheduling-tentative.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-sort-arrow-up.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-sort-arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/icon/icon-tentative-background.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\icon\icon-tentative-background.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/mailbox/icon-envelope-white.svg
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\mailbox\icon-envelope-white.svg
+Content Type: image/svg+xml
+
+Uri: https://yaanimail.com/assets/img/newIcon/icon-chevron-down-16.png
+File Name: C:\Downloaded Web Sites\yaanimail.com\assets\img\newIcon\icon-chevron-down-16.png
+Content Type: image/png
+
+Uri: https://yaanimail.com/favicon.ico
+File Name: C:\Downloaded Web Sites\yaanimail.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://yaanimail.com/main.c0a2a6adf094903a.js
+File Name: C:\Downloaded Web Sites\yaanimail.com\main.c0a2a6adf094903a.js
+Content Type: text/javascript
+
+Uri: https://yaanimail.com/polyfills.f3662eb90fd7a877.js
+File Name: C:\Downloaded Web Sites\yaanimail.com\polyfills.f3662eb90fd7a877.js
+Content Type: text/javascript
+
+Uri: https://yaanimail.com/runtime.12ce9aa2d1bb7d0e.js
+File Name: C:\Downloaded Web Sites\yaanimail.com\runtime.12ce9aa2d1bb7d0e.js
+Content Type: text/javascript
+
+Uri: https://yaanimail.com/scripts.85cb9056144d6d3f.js
+File Name: C:\Downloaded Web Sites\yaanimail.com\scripts.85cb9056144d6d3f.js
+Content Type: text/javascript
+
+Uri: https://yaanimail.com/styles.1b7a94d1ef07810a.css
+File Name: C:\Downloaded Web Sites\yaanimail.com\styles.1b7a94d1ef07810a.css
+Content Type: text/css
+
